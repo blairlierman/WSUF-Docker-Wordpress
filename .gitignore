@@ -1,3 +1,6 @@
 plugins/*
 !plugins/akismet
 !plugins/wordpress-importer
+plugins
+uploads
+themes
